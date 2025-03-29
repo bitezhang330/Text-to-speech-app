@@ -1,0 +1,19 @@
+[2025-03-29 17:09:45] 当前工作目录: d:\Users\zhang\Desktop\新建文件夹 (4)\翻译\temp_git_upload
+[2025-03-29 17:09:45] 执行命令: git config --global user.name "bitezhang330"
+[2025-03-29 17:09:45] 执行命令: git config --global user.email "sky601715@mail.nwpu.edu.cn"
+[2025-03-29 17:09:45] 设置Git代理: 127.0.0.1:7890
+[2025-03-29 17:09:45] 执行命令: git config --global http.proxy http://127.0.0.1:7890
+[2025-03-29 17:09:45] 执行命令: git config --global https.proxy http://127.0.0.1:7890
+[2025-03-29 17:09:45] 检查当前Git代理设置...
+[2025-03-29 17:09:45] 执行命令: git config --global --get http.proxy
+[2025-03-29 17:09:45] http://127.0.0.1:7890
+
+[2025-03-29 17:09:45] 执行命令: git config --global --get https.proxy
+[2025-03-29 17:09:45] http://127.0.0.1:7890
+
+[2025-03-29 17:09:45] 初始化Git仓库...
+[2025-03-29 17:09:45] 执行命令: git init
+[2025-03-29 17:09:45] Initialized empty Git repository in D:/Users/zhang/Desktop/新建文件夹 (4)/翻译/temp_git_upload/.git/
+
+[2025-03-29 17:09:45] 添加文件到Git暂存区...
+[2025-03-29 17:09:45] 执行命令: git add .
